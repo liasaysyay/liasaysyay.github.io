@@ -1,7 +1,8 @@
 ---
-title: "liasaysyay.github.io"
+title: "Lia Noel Crocker"
 about:
   template: jolla
+  image: Rainforest.jpg
 ---
 
 This is a Quarto website.
