@@ -1,10 +1,17 @@
 ---
 title: "Lia Noel Crocker"
 about:
-  template: jolla
-  image: Rainforest.jpg
+  template: solana
+  image: images/Witch.jpg
+  image-shape: rounded
+  image-width: 16em 
+  links:
+    - href: https://www.linkedin.com/in/lia-crocker/
+      text: <button type="button" class="btn btn-outline-success">LinkedIn</button>
+    - href: mailto:liacrocker@arizona.edu
+      text: <button type="button" class="btn btn-outline-secondary">Email</button>
+    - href: https://liacrocker.wixsite.com/biospheres4research
+      text: <button type="button" class="btn btn-outline-info">Blog</button>
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<p class="text-primary">I am a biosystems engineer working as a research specialist for the ocean at Biosphere 2.</p>
