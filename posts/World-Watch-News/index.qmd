@@ -1,0 +1,9 @@
+---
+title: "World Watch News"
+description: <p class="text-success">I was interviewed by World Watch News for a segment on Biosphere 2.</p>
+date: 10-26-2022
+---
+
+<button type="button" onclick="location.href='https://app.worldwatch.news/programs/biosphere-abodes'"  class="btn btn-lg btn-primary">Video</button>
+
+<button type="button" onclick="location.href='https://wng.org/podcasts/life-in-a-bubble-1666762079'"  class="btn btn-lg btn-secondary">Podcast</button>

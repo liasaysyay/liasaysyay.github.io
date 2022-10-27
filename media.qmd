@@ -1,4 +1,10 @@
 ---
 title: "Media"
+listing: 
+  contents: posts
+  type: grid
+  sort: "date desc"
+  categories: true
 ---
 
+<p class="text-secondary">Working at Biosphere 2 presents me with many opportunites to be covered in the media. I am starting to lose track of my media appearances so this page will help me keep track of my public image.</p>
